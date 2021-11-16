@@ -24,7 +24,7 @@ class HomeView extends StatefulWidget {
 class _HomeViewState extends State<HomeView> {
   final myController = TextEditingController();
   int _enter = 0;
-  var fruitlist = ['apple', 'orange', 'rabutan'];
+  var fruitlist = ['apple', 'orange', 'rambutan'];
   String answer = '';
   void change() {
     setState(() {
