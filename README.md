@@ -7,5 +7,5 @@ _We learn a little bit about creating your app from scratch and using buttons an
 - 4) Create a button to access the list and display the content of the list depending on what was chosen on the textbox. So if 1 is entered in the textbox, than, display apple
 
 ## Output
-         .
+     
 ![alt text](https://github.com/boi-git/assignment1/blob/master/output.jpeg)
